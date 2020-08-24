@@ -1,4 +1,16 @@
 * {
-  background-color: pink;
   text-align: center;
+}
+
+.form-group {
+  margin: 20px auto;
+}
+
+input {
+  border-radius: 4px;
+  padding: 10px;
+}
+
+button {
+  width: 10%;
 }
